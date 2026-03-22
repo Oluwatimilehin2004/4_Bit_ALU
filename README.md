@@ -75,10 +75,7 @@ Output
  
 Achievements
 
-Implemented a modular 4-bit ALU supporting six operations.
-Developed a robust testbench with 100% test coverage for all operations.
-Optimized design for clarity and efficient logic utilization.
-Successfully simulated using [Tool, e.g., ModelSim], verifying correct functionality and Zero flag behavior.
+Successfully simulated using EDA Playground with Aldec Riviera Pro, verifying correct functionality and Zero flag behavior across all 7 test cases.
 
 Future Improvements
 
