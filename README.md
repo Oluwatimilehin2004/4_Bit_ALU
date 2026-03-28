@@ -85,3 +85,7 @@ Extend to 8-bit or 16-bit ALU for scalability.
 Synthesize and implement on an FPGA (e.g., Xilinx Spartan-6).
 
 ****
+
+---
+## 📦 Imported from [https://github.com/OmShirse/4_Bit_ALU](https://github.com/OmShirse/4_Bit_ALU)
+*Imported using ForkYouToo - Learn, Adapt, Build*
